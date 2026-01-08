@@ -1,0 +1,5 @@
+{
+  "name": "AlgoFlow Pro",
+  "description": "A professional node-based algorithmic trading platform featuring a visual strategy builder, Dukascopy data backtesting, and multi-broker deployment capabilities.",
+  "requestFramePermissions": []
+}
